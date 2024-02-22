@@ -1,0 +1,5 @@
+collections:
+  - version: security
+    type: git
+    name: https://github.com/machacekondra/vmware_ops.git
+  - name: community.general

@@ -1,0 +1,4 @@
+collections:
+  - version: f530ab273fbf7e748141c37fd9bb9b4532447c8c
+    type: git
+    name: https://github.com/machacekondra/vmware_ops.git
